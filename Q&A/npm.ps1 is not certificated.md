@@ -1,4 +1,4 @@
-# npm.ps1 is not certificate
+# npm.ps1 is not certificated
 
 <img width="488" alt="image" src="https://github.com/user-attachments/assets/e9e5287d-f379-43c3-a46b-f5ffe84c4915" />
 
